@@ -1,8 +1,9 @@
 # gitalias
 my git alias config
 
-### 
-> s = status
+###
+> s = status -s 
+> ss = status
 > c = commit
 > b = branch
 > d = diff
